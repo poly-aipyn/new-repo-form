@@ -1,0 +1,10 @@
+mkdir d:\awesome
+cd d:\awesome
+git init
+
+git add test.txt
+
+git commit -m "add new file"
+
+git status
+
